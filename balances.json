@@ -1,0 +1,26 @@
+{
+  "488828183": {
+    "wallet": 149911000,
+    "bank": 0,
+    "won": 0,
+    "lost": 0,
+    "won_total": 0,
+    "lost_total": 0,
+    "received_total": 0,
+    "sent_total": 100000,
+    "vip_until": "2026-05-26T21:19:30.049270",
+    "donated": 0
+  },
+  "574393629": {
+    "wallet": 150095000,
+    "bank": 0,
+    "won": 0,
+    "lost": 0,
+    "won_total": 0,
+    "lost_total": 0,
+    "received_total": 95000,
+    "sent_total": 0,
+    "vip_until": null,
+    "donated": 0
+  }
+}
