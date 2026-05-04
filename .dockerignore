@@ -1,0 +1,22 @@
+.git
+.gitignore
+.gitattributes
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.vscode/
+.idea/
+node_modules/
+dist/
+build/
+*.log
+*.tmp
+*.temp
+.DS_Store
+
+# Local-only artifacts
+main.broken_backup.py
+main.partial_bad_backup.py
+*.bak_*
